@@ -27,4 +27,5 @@ in the simulator script
 
 # Contact Information
 Email: muciajoe@gmail.com
+
 Phone: +254757405701
