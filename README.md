@@ -20,6 +20,6 @@ in the simulator script
 > python assemble.py
 > python simulator.py
 *UNIX system*
-Replace the python3 with the current version in your computer
->python3 assemble.py
->python3 simulator.py
+*Replace the python3 with the current version in your computer*
+> python3 assemble.py
+> python3 simulator.py
