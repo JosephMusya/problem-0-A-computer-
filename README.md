@@ -10,15 +10,15 @@ an assembly program passed as a string and returns it in the form of a list.
 The contact information for the project is Joseph Musya, 
 email address: muciajoe@gmail.com.
 
-#Running the code
+# Running the code
 There are two different codes, assembler and simulator.
 The assembler can be executed indivudually since it generates the machine code.
 On the other hand, simulator code relies on the assembler and is therefore imported 
 in the simulator script
 
 *Windows computer*
->python assemble.py
->python simulator.py
+> python assemble.py
+> python simulator.py
 *UNIX system*
 Replace the python3 with the current version in your computer
 >python3 assemble.py
