@@ -17,8 +17,10 @@ On the other hand, simulator code relies on the assembler and is therefore impor
 in the simulator script
 
 *Windows computer*
+
 > python assemble.py
 > python simulator.py
+
 *UNIX system*
 *Replace the python3 with the current version in your computer*
 > python3 assemble.py
