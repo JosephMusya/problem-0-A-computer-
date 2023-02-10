@@ -7,6 +7,7 @@ to instruction numbers, and a symbol table, which stores labels and variables.
 The script can also be ran as a module, the section that runs when the script is run as the main script encodes 
 an assembly program passed as a string and returns it in the form of a list. 
 
+
 # Running the code
 There are two different codes, assembler and simulator.
 The assembler can be executed indivudually since it generates the machine code.
